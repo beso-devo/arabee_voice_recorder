@@ -78,10 +78,10 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
-  assets:
-    - assets/fonts/
-    - assets/images/icons
-    - assets/images/logos
+#  assets:
+#    - assets/fonts/
+#    - assets/images/icons
+#    - assets/images/logos
 
 
 #  fonts:
